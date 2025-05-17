@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoGrpc.Server", "ToDoGrpc.Server\ToDoGrpc.Server.csproj", "{D80C4C97-FFAB-4D01-9F67-B42A608BC8B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoGrpc.Client", "ToDoGrpc.Client\ToDoGrpc.Client.csproj", "{61521001-D240-4792-8741-E12FD3D1E47D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D80C4C97-FFAB-4D01-9F67-B42A608BC8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D80C4C97-FFAB-4D01-9F67-B42A608BC8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D80C4C97-FFAB-4D01-9F67-B42A608BC8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61521001-D240-4792-8741-E12FD3D1E47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61521001-D240-4792-8741-E12FD3D1E47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61521001-D240-4792-8741-E12FD3D1E47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61521001-D240-4792-8741-E12FD3D1E47D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
